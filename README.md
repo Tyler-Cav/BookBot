@@ -1,3 +1,3 @@
 # BookBot
 
-Creating a basic python bookboot
+Creating a basic python bookbot
